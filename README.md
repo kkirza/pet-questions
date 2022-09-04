@@ -5,6 +5,7 @@ An unauthorized user can ask questions.
 An authorized user can see a list of all questions from all users.
 
 frontend: HTML, CSS, webpack, JS
+
 backend: firebase
 deploy: firebase deploy
 
